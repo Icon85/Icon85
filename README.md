@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Icon85
-- 👀 I’m interested in software and web development 
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m @DatTechGuy
+- 👀 I’m interested in IoT and Embedded Systems
+- 🌱 I’m currently at the Beginner level
 - 💞️ I'd appreciate it if I get a mentor who'll be accessible and also keep me motivated 
-- 📫 How to reach me: nurulkhair360@gmail.com
+- 📫 How to reach me: shuaibuibrahimm85@gmail.com
 
 
 <!---
